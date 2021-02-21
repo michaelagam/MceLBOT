@@ -1,6 +1,7 @@
-### I'm FADHIL GRAPHY Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### I'm Michael Argiam Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
-<a href="https://github.com/FdhlGraphy"><img src="https://raw.githubusercontent.com/FdhlGraphy/FdhlGraphy/main/banner.jpg"></a>
+<a href="https://github.com/michaelagam"><img src="https://raw.githubusercontent.com/michaelagam/MceLBOT/main/banner.jpg"></a>
+
 </p>
 <br>
 
@@ -9,12 +10,12 @@
 <a href="#"><img title="botwa-termux" src="https://img.shields.io/badge/-BOTWA--TERMUX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FdhlGraphy"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FADHIL-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/michaelagam"><img title="Author" src="https://img.shields.io/badge/michael-agam-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FdhlGraphy/botwa-termux/followers"><img title="Followers" src="https://img.shields.io/github/followers/FdhlGraphy?style=flat-square"></a>
-<a href="https://github.com/FdhlGraphy/botwa-termux/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FdhlGraphy/botwa-termux?style=flat-square"></a>
-<a href="https://github.com/FdhlGraphy/botwa-termux/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FdhlGraphy/botwa-termux?style=flat-square"></a>
+<a href="https://github.com/michaelagam/MceLBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/michaelagam?style=flat-square"></a>
+<a href="https://github.com/michaelagam/MceLBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/michaelagam/MceLBOT?style=flat-square"></a>
+<a href="https://github.com/michaelagam/MceLBOT/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/michaelagam/MceLBOT?style=flat-square"></a>
 
 </p>
 
@@ -60,8 +61,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/FdhlGraphy/botwa-termux
-> cd botwa-termux
+> git clone https://github.com/michaelagam/MceLBOT
+> cd MceLBOT
 > bash install.sh
 ```
 
@@ -88,11 +89,8 @@ Open In Setting.json!
 ```bash
 {
     "prefix": "#",
-    "instagram": "https://www.instagram.com/ahmd.fdhl_",
-    "yt": "https://youtubemcom/FadhilGraphy",
-    "name": "FADHIL BOT",
-    "replySet": "SUBSCRIBE FADHIL GRAPHY",
-    "rdaftar": "TERIMAKASIH TELAH DAFTAR SEBAGAI TEMAN FADHILðŸ¤—",
+    "na"me": "MceL BOT",
+    "rdaftar": "TERIMAKASIH TELAH DAFTAR SEBAGAI TEMAN MichaelagamðŸ¤—",
     "limitt": "UNLIMITED",
     "memberLimit": 7,
     "groupLimit": 7
