@@ -39,16 +39,15 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 ┃
 ┃
 ┃╭─「 *SUPPORT!!* 」────
-┃├➲ *FADHIL G*
-┃├➲ *BRYAN R*
-┃├➲ *AFFIS J*
-┃├➲ *ANANG*
-┃├➲ *NAZWA S*
+┃├➲ *MceLBOT*
+┃├➲ *MICHAEL A*
+┃├➲ *GABRIEL A*
+┃├➲ *Open Resseler*
 ┃├➲ *MEMBER MYBOT TEAM*
 ┃╰──────────────────
 ┃
 ╰────────────────────
 
-         *©Fadhil Graphy*`
+         *©MceL BOT*`
 }
 exports.help = help
