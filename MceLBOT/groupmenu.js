@@ -52,6 +52,6 @@ const groupmenu = (prefix) => {
 │
 ╰────────────────────
 	
-           *©Fadhil Graphy*`
+           *©MceL BOT*`
 	}
 exports.groupmenu = groupmenu
