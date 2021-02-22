@@ -18,14 +18,8 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 						
 						
 								
-\`\`\`Follow My Instagram\`\`\`
-${instagram}
-
-\`\`\`SUBSCRIBE😁\`\`\`
-${yt}
-
 \`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+https://chat.whatsapp.com/HN6Hgv8oRegG1GOTUE5HjU
 
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
@@ -53,7 +47,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╭──────「 *MEDIA DOWNLOADER* 」
 ┴
 ╰─➤ *${prefix}tiktokstalk [username]*
-╰─➤ *${prefix}igstalk [_farhan_xcode7]*
+╰─➤ *${prefix}igstalk [username]*
 ╰─➤ *${prefix}insta [Link]*
 ╰─➤ *${prefix}instastory [username]*
 ╰─➤ *${prefix}ssweb [url]*
@@ -120,13 +114,13 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰─➤ *${prefix}jarak [Banyuwangi/Surabaya]*
 ╰─➤ *${prefix}translate [en/Apa kabar?]*
 ╰─➤ *${prefix}pasangan [Farhan/Iriene]*
-╰─➤ *${prefix}gantengcek [Farhan]*
-╰─➤ *${prefix}cantikcek [Iriene]*
-╰─➤ *${prefix}artinama [Farhan]*
+╰─➤ *${prefix}gantengcek [MceLBOT]*
+╰─➤ *${prefix}cantikcek [Zerotwo]*
+╰─➤ *${prefix}artinama [MceLBOT]*
 ╰─➤ *${prefix}persengay [Topan]*
-╰─➤ *${prefix}pbucin [Farhan]*
-╰─➤ *${prefix}bpfont [Farhan]*
-╰─➤ *${prefix}textstyle [BryanRfly]*
+╰─➤ *${prefix}pbucin [MceLBOT]*
+╰─➤ *${prefix}bpfont [MceLBOT]*
+╰─➤ *${prefix}textstyle [MceLBOT]*
 ╰─➤ *${prefix}jadwaltv [antv]*
 ╰─➤ *${prefix}lirik [melukis senja]*
 ╰─➤ *${prefix}chord [Melukis senja]*
@@ -191,32 +185,32 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰─➤ *${prefix}trigger [reply image]*
 ╰─➤ *${prefix}rip [reply image]*
 ╰─➤ *${prefix}wasted [reply image]*
-╰─➤ *${prefix}cphlogo [BryanRfly/BOT]*
-╰─➤ *${prefix}cglitch [BryanRfly/BOT]*
-╰─➤ *${prefix}cpubg [BryanRfly/BOT]*
-╰─➤ *${prefix}cml [miya/BryanRfly]*
-╰─➤ *${prefix}tahta [BryanRfly]*
-╰─➤ *${prefix}croman [BryanRfly dan BOT]*
-╰─➤ *${prefix}cthunder [BryanRfly]*
-╰─➤ *${prefix}cbpink [BryanRfly]*
-╰─➤ *${prefix}cmwolf [BryanRfly]*
-╰─➤ *${prefix}csky [BryanRfly]*
-╰─➤ *${prefix}cwooden [BryanRfly]*
-╰─➤ *${prefix}cflower [BryanRfly]*
-╰─➤ *${prefix}clove [BryanRfly]*
-╰─➤ *${prefix}ccrossfire [BryanRfly]*
-╰─➤ *${prefix}cnaruto [BryanRfly]*
-╰─➤ *${prefix}cparty [BryanRfly]*
-╰─➤ *${prefix}cshadow [BryanRfly]*
-╰─➤ *${prefix}cminion [BryanRfly]*
-╰─➤ *${prefix}cneon [BryanRfly]*
-╰─➤ *${prefix}cneon2 [BryanRfly]*
-╰─➤ *${prefix}cneongreen [BryanRfly]*
-╰─➤ *${prefix}c3d [BryanRfly]*
-╰─➤ *${prefix}csky [BryanRfly]*
+╰─➤ *${prefix}cphlogo [MceL/BOT]*
+╰─➤ *${prefix}cglitch [MceL/BOT]*
+╰─➤ *${prefix}cpubg [MceL/BOT]*
+╰─➤ *${prefix}cml [Miku/MceL]*
+╰─➤ *${prefix}tahta [MceLBOT]*
+╰─➤ *${prefix}croman [MceL dan BOT]*
+╰─➤ *${prefix}cthunder [MceLBOT]*
+╰─➤ *${prefix}cbpink [MceLBOT]*
+╰─➤ *${prefix}cmwolf [MceLBOT]*
+╰─➤ *${prefix}csky [MceLBOT]*
+╰─➤ *${prefix}cwooden [MceLBOT]*
+╰─➤ *${prefix}cflower [MceLBOT]*
+╰─➤ *${prefix}clove [MceLBOT]*
+╰─➤ *${prefix}ccrossfire [MceLBOT]*
+╰─➤ *${prefix}cnaruto [MceLBOT]*
+╰─➤ *${prefix}cparty [MceLBOT]*
+╰─➤ *${prefix}cshadow [MceLBOT]*
+╰─➤ *${prefix}cminion [MceLBOT]*
+╰─➤ *${prefix}cneon [MceLBOT]*
+╰─➤ *${prefix}cneon2 [MceLBOT]*
+╰─➤ *${prefix}cneongreen [MceLBOT]*
+╰─➤ *${prefix}c3d [MceLBOT]*
+╰─➤ *${prefix}csky [MceLBOT]*
 ╰─➤ *${prefix}tts [id Haii]*
-╰─➤ *${prefix}ttp [BryanRfly]*
-╰─➤ *${prefix}slide [BryanRfly]*
+╰─➤ *${prefix}ttp [MceLBOT]*
+╰─➤ *${prefix}slide [MceLBOT]*
 ╰─➤ *${prefix}stiker*
 ╰─➤ *${prefix}gifstiker*
 ╰─➤ *${prefix}toimg*
@@ -333,9 +327,9 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 
 ╭─────「 *SUPPORT ${name}* 」
 │
-├➲ *FADHIL G*
-├➲ *ANANG F*
-├➲ *AFFIS J*
+├➲ *MceL A*
+├➲ *Agam M*
+├➲ *Gabriel R*
 ├➲ *Dan Member MyBot Team Lainnya*
 ╰────────────────────────`
 }
