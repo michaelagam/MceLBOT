@@ -58,8 +58,8 @@ return `
 ➲  *${prefix}report* \`\`\`apa pesan errornya\`\`\`
 
 ➲ \`\`\`Mau Invit Bot?? Donasi Gan,\`\`\`
-    \`\`\`Kalo Gamau Donasi Follow Ig\`\`\`
-     \`\`\`@bryan_rafly09\`\`\`
+    \`\`\`Kalo Mau Donasi WhatsApp\`\`\`
+     \`\`\`082217590187\`\`\`
 
 ➲  \`\`\`Kalian Bisa Mempublish Quotes Kalian\`\`\`
  \`\`\`Jika Minat Hubungi Aja Owner Buat\`\`\`
