@@ -1,10 +1,10 @@
 const listmenu = (prefix) => { 
-	return ` *LIST MENU FADHIL BOT*
+	return ` *LIST MENU MceL BOT*
 	
 	
 ╭─「 *MEDIA DOWNLOADER* 」──
 ├➲ *${prefix}tiktokstalk [username]*
-├➲ *${prefix}igstalk [ahmd.fdhl_]*
+├➲ *${prefix}igstalk [mcel.bot_]*
 ├➲ *${prefix}insta [Link]*
 ├➲ *${prefix}instastory [username]*
 ├➲ *${prefix}ssweb [url]*
@@ -65,14 +65,14 @@ const listmenu = (prefix) => {
 ╭───「 *OTHER & DEFACE* 」───
 ├➲ *${prefix}jarak [Klatem/Jogja]*
 ├➲ *${prefix}translate [en/Apa kabar?]*
-├➲ *${prefix}pasangan [Fadhil/Salsa]*
-├➲ *${prefix}gantengcek [Fadhil]*
-├➲ *${prefix}cantikcek [Salsa]*
-├➲ *${prefix}artinama [Fadhil]*
-├➲ *${prefix}persengay [Bryan]*
-├➲ *${prefix}pbucin [Fadhil]*
-├➲ *${prefix}bpfont [Fadhil]*
-├➲ *${prefix}textstyle [Fadhil Graphy]*
+├➲ *${prefix}pasangan [MceL/Miku]*
+├➲ *${prefix}gantengcek [MceL]*
+├➲ *${prefix}cantikcek [Miku]*
+├➲ *${prefix}artinama [MceL]*
+├➲ *${prefix}persengay [MceL]*
+├➲ *${prefix}pbucin [MceL]*
+├➲ *${prefix}bpfont [MceL]*
+├➲ *${prefix}textstyle [MceL BOT]*
 ├➲ *${prefix}jadwaltv [GTV]*
 ├➲ *${prefix}lirik [I am lady]*
 ├➲ *${prefix}chord [I am lady]*
@@ -129,32 +129,32 @@ const listmenu = (prefix) => {
 ├➲ *${prefix}trigger [reply image]*
 ├➲ *${prefix}rip [reply image]*
 ├➲ *${prefix}wasted [reply image]*
-├➲ *${prefix}cphlogo [Fadhil/Graphy]*
-├➲ *${prefix}cglitch [Fadhil/Graphy]*
-├➲ *${prefix}cpubg [Fadhil/Graphy]*
-├➲ *${prefix}cml [Fadhil/Graphy]*
-├➲ *${prefix}tahta [Salsa]*
-├➲ *${prefix}croman [Fadhil dan Salsa]*
-├➲ *${prefix}cthunder [Fadhil Graphy]*
-├➲ *${prefix}cbpink [Fadhil Graphy]*
-├➲ *${prefix}cmwolf [Fadhil Graphy]*
-├➲ *${prefix}csky [Fadhil Graphy]*
-├➲ *${prefix}cwooden [Fadhil Graphy]*
-├➲ *${prefix}cflower [Fadhil Graphy]*
-├➲ *${prefix}clove [Fadhil Graphy]*
-├➲ *${prefix}ccrossfire [Fadhil Graphy]*
-├➲ *${prefix}cnaruto [Fadhil Graphy]*
-├➲ *${prefix}cparty [Fadhil Graphy]*
-├➲ *${prefix}cshadow [Fadhil Graphy]*
-├➲ *${prefix}cminion [Fadhil Graphy]*
-├➲ *${prefix}cneon [Fadhil Graphy]*
-├➲ *${prefix}cneon2 [Fadhil Graphy]*
-├➲ *${prefix}cneongreen [Fadhil Graphy]*
-├➲ *${prefix}c3d [Fadhil Graphy]*
-├➲ *${prefix}csky [Fadhil Graphy]*
+├➲ *${prefix}cphlogo [MceL/Miku]*
+├➲ *${prefix}cglitch [MceL/Miku]*
+├➲ *${prefix}cpubg [MceL/Miku]*
+├➲ *${prefix}cml [MceL/Miku]*
+├➲ *${prefix}tahta [Miku]*
+├➲ *${prefix}croman [MceL Dan Miku]*
+├➲ *${prefix}cthunder [MceL BOT]*
+├➲ *${prefix}cbpink [MceL BOT]*
+├➲ *${prefix}cmwolf [MceL BOT]*
+├➲ *${prefix}csky [MceL BOT]*
+├➲ *${prefix}cwooden [MceL BOT]*
+├➲ *${prefix}cflower [MceL BOT]*
+├➲ *${prefix}clove [MceL BOT]*
+├➲ *${prefix}ccrossfire [MceL BOT]*
+├➲ *${prefix}cnaruto [MceL BOT]*
+├➲ *${prefix}cparty [MceL BOT]*
+├➲ *${prefix}cshadow [MceL BOT]*
+├➲ *${prefix}cminion [MceL BOT]*
+├➲ *${prefix}cneon [MceL BOT]*
+├➲ *${prefix}cneon2 [MceL BOT]*
+├➲ *${prefix}cneongreen [MceL BOT]*
+├➲ *${prefix}c3d [MceL BOT]*
+├➲ *${prefix}csky [MceL BOT]*
 ├➲ *${prefix}tts [id Haii]*
-├➲ *${prefix}ttp [Fadhil Graphy]*
-├➲ *${prefix}slide [Fadhil Graphy]*
+├➲ *${prefix}ttp [MceL BOT]*
+├➲ *${prefix}slide [MceL BOT]*
 ├➲ *${prefix}stiker*
 ├➲ *${prefix}gifstiker*
 ├➲ *${prefix}toimg*
@@ -259,6 +259,6 @@ const listmenu = (prefix) => {
 ╰──────────────────────
 
 	
-               *©Fadhil Graphy*`
+               *©MceL BOT*`
 	}
 exports.listmenu = listmenu
