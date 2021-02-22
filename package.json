@@ -1,5 +1,5 @@
 {
-  "name": "termux-bot-wa",
+  "name": "MceL-bot-wa",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "FarhanXCo",
+  "author": "Michaelag",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
@@ -51,10 +51,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FarhanXCode7/termux-bot-wa.git"
+    "url": "git+https://github.com/michaelagam/MceLBOT.git"
   },
   "bugs": {
-    "url": "https://github.com/FarhanXCode7/termux-bot-wa/issues"
+    "url": "https://github.com/michaelagam/MceLBOT/issues"
   },
-  "homepage": "https://github.com/FarhanXCode7/termux-bot-wa#readme"
+  "homepage": "https://github.com/michaelagam/MceLBOT#readme"
 }
