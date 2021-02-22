@@ -12,4 +12,4 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 npm install
 
 echo "[*] All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
-echo "Sv Wa Gw 089649480997:BryanGans,,,,sekalian Follow Ig Gw:bryan_rafly09"
+echo "Sv Wa Gw 082217590187:agamganz"
