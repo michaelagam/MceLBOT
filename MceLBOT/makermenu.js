@@ -8,32 +8,32 @@ const makermenu = (prefix) => {
 ├➲ *${prefix}trigger [reply image]*
 ├➲ *${prefix}rip [reply image]*
 ├➲ *${prefix}wasted [reply image]*
-├➲ *${prefix}cphlogo [Fadhil/Graphy]*
-├➲ *${prefix}cglitch [Fadhil/Graphy]*
-├➲ *${prefix}cpubg [Fadhil/Graphy]*
-├➲ *${prefix}cml [Salsa/Fadhil]*
-├➲ *${prefix}tahta [Fadhil]*
-├➲ *${prefix}croman [Fadhil dan Salsa]*
-├➲ *${prefix}cthunder [Fadhil]*
-├➲ *${prefix}cbpink [Fadhil]*
-├➲ *${prefix}cmwolf [Fadhil]*
-├➲ *${prefix}csky [Fadhil]*
-├➲ *${prefix}cwooden [Fadhil]*
-├➲ *${prefix}cflower [Fadhil]*
-├➲ *${prefix}clove [Fadhil]*
-├➲ *${prefix}ccrossfire [Fadhil]*
-├➲ *${prefix}cnaruto [Fadhil]*
-├➲ *${prefix}cparty [Fadhil]*
-├➲ *${prefix}cshadow [Fadhil]*
-├➲ *${prefix}cminion [Fadhil]*
-├➲ *${prefix}cneon [Fadhil]*
-├➲ *${prefix}cneon2 [Fadhil]*
-├➲ *${prefix}cneongreen [Fadhil]*
-├➲ *${prefix}c3d [Fadhil]*
-├➲ *${prefix}csky [Fadhil]*
-├➲ *${prefix}tts [id Fadhil]*
-├➲ *${prefix}ttp [Fadhil]*
-├➲ *${prefix}slide [Fadhil]*
+├➲ *${prefix}cphlogo [MceL/Miku]*
+├➲ *${prefix}cglitch [MceL/Miku]*
+├➲ *${prefix}cpubg [MceL/Miku]*
+├➲ *${prefix}cml [Miku/MceL]*
+├➲ *${prefix}tahta [MceLBOT]*
+├➲ *${prefix}croman [MceL dan Miku]*
+├➲ *${prefix}cthunder [MceLBOT]*
+├➲ *${prefix}cbpink [MceLBOT]*
+├➲ *${prefix}cmwolf [MceLBOT]*
+├➲ *${prefix}csky [MceLBOT]*
+├➲ *${prefix}cwooden [MceLBOT]*
+├➲ *${prefix}cflower [MceLBOT]*
+├➲ *${prefix}clove [MceLBOT]*
+├➲ *${prefix}ccrossfire [MceLBOT]*
+├➲ *${prefix}cnaruto [MceLBOT]*
+├➲ *${prefix}cparty [MceLBOT]*
+├➲ *${prefix}cshadow [MceLBOT]*
+├➲ *${prefix}cminion [MceLBOT]*
+├➲ *${prefix}cneon [MceLBOT]*
+├➲ *${prefix}cneon2 [MceLBOT]*
+├➲ *${prefix}cneongreen [MceLBOT]*
+├➲ *${prefix}c3d [MceLBOT]*
+├➲ *${prefix}csky [MceLBOT]*
+├➲ *${prefix}tts [id MceLBOT]*
+├➲ *${prefix}ttp [MceLBOT]*
+├➲ *${prefix}slide [MceLBOT]*
 ├➲ *${prefix}stiker*
 ├➲ *${prefix}gifstiker*
 ├➲ *${prefix}toimg*
@@ -44,6 +44,6 @@ const makermenu = (prefix) => {
 │
 ╰──────────────────────
 
-	           *©Fadhil Graphy*`
+	           *©MceL BOT*`
 	}
 exports.makermenu = makermenu
