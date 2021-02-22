@@ -3,7 +3,7 @@ const mediamenu = (prefix) => {
 ╭─「 *MEDIA DOWNLOADER* 」──
 │
 ├➲ *${prefix}tiktokstalk [username]*
-├➲ *${prefix}igstalk [@ahmd.fdhl_]*
+├➲ *${prefix}igstalk [username]*
 ├➲ *${prefix}insta [Link]*
 ├➲ *${prefix}instastory [username]*
 ├➲ *${prefix}ssweb [url]*
@@ -21,6 +21,6 @@ const mediamenu = (prefix) => {
 │
 ╰──────────────────────
 	
-                  *©Fadhil Graphy*`
+                  *©MceL BOT*`
 	}
 exports.mediamenu = mediamenu
