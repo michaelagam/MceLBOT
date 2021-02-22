@@ -38,6 +38,6 @@ const funmenu = (prefix) => {
 │
 ╰───────────────────
 	
-               *©Fadhil Graphy*`
+               *©MceL BOT*`
 	}
 exports.funmenu = funmenu
