@@ -6,21 +6,18 @@ const donasi = (Ig, name) => {
 ┣━⊱ *DONASI SEIKHLASNYA:)* ❉⊰━━✿
 ┃  
 ┣━⊱ *DANA*
-┣⊱ HUBUNGI OWNER AJA
+┣⊱ 082217590187
 ┣━⊱ *PULSA*
-┣⊱ HUBUNGI OWNER AJA
+┣⊱ 082217590187
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━
-┃  *BOT BY ${name}*
+┃  *BOT BY MceL*
 ┗━━━━━━━━━━━━━━━━━━━━
 Note:
-Jika Gamau Donasi Setidaknya Follow IG Ngab:D
+Jika Mau Donasi WhatsApp 082217590187
 Kalo Dah Donasi Silahkan Invit Di Group Kalian:)
 Makasih:)
 
-PENGGANTI DONASI GAN!!!
-https://youtube.com/c/FadhilGraphy
-${Ig}
 
 `
 }
